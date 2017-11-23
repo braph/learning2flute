@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # learning2flute.py - learn to play the flute
 # Copyright (C) 2016 Benjamin Abendroth
